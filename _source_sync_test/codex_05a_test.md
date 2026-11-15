@@ -1,2 +1,2 @@
 # SourceSync 05A test
-初回同期
+更新後
