@@ -1,8 +1,8 @@
-# MRCS Fictional Worldbuilding Source Archive
+# Yutosana Fictional Worldbuilding Source Archive
 
 ## About This Repository
 
-This repository contains source documents for the **Mausana–Roemeu Co-orbital System (MRCS)**, a fictional worldbuilding project.
+This repository contains source documents for the fictional worldbuilding project.
 
 The archive is intended for creative writing, collaborative worldbuilding, documentation, and AI-assisted research.
 
@@ -39,11 +39,11 @@ Public availability does not automatically grant permission for unrestricted red
 
 ---
 
-# MRCS創作世界観 原文資料アーカイブ
+# ゆとさな　創作物 原文資料アーカイブ
 
 ## このリポジトリについて
 
-このリポジトリは、架空世界「**MRCS創作世界観（Mausana–Roemeu Co-orbital System）**」の原文設定資料を収録するものです。
+このリポジトリは、原文設定資料を収録するものです。
 
 創作活動、共同世界観構築、資料管理、AIによる情報検索・分析を目的としています。
 
